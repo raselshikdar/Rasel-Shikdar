@@ -6,8 +6,8 @@
 
 export default {
   // 博客基础配置
-  title: 'Rasel Shikdar',
-  subtitle: 'ルー・ワン',
+  title: 'Rasel',
+  subtitle: 'Shikdar',
   description: 'Rasels\'s Blog',
   keywords: 'Rasel, blog, Shikdar',
   logo: './logo.svg',
@@ -25,9 +25,9 @@ export default {
   repository: 'Rasel-Shikdar',
   // friendsRepo: 'friends', // 留空则默认使用上方仓库获取
   // 您的信息
-  author: 'Luwang',
-  email: 'luwang@oicode.cn',
-  link: '//luwang.info',
+  author: 'Rasel',
+  email: 'info@rsblog.ddns.net',
+  link: '//rasel.is-a.dev',
   github: '//github.com/raselshikdar',
   // 友链信息
   name: 'Rasel Shikdar',
