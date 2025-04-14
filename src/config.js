@@ -6,10 +6,10 @@
 
 export default {
   // 博客基础配置
-  title: 'wallleap',
+  title: 'Rasel Shikdar',
   subtitle: 'ルー・ワン',
-  description: 'Luwang\'s blog',
-  keywords: 'Luwang, blog, wallleap',
+  description: 'Rasels\'s Blog',
+  keywords: 'Rasel, blog, Shikdar',
   logo: './logo.svg',
   favicon16: './favicon.ico',
   favicon32: './favicon.ico',
@@ -21,19 +21,19 @@ export default {
   // 关于页二维码
   alipay_qr: '/images/alipayQr.jpg',
   // GitHub Issues 配置
-  username: 'wallleap',
-  repository: 'myblogs',
+  username: 'raselshikdar',
+  repository: 'Rasel-Shikdar',
   // friendsRepo: 'friends', // 留空则默认使用上方仓库获取
   // 您的信息
   author: 'Luwang',
   email: 'luwang@oicode.cn',
   link: '//luwang.info',
-  github: '//github.com/wallleap',
+  github: '//github.com/raselshikdar',
   // 友链信息
-  name: 'wallleap',
-  url: '//myblog.wallleap.cn',
+  name: 'Rasel Shikdar',
+  url: '//raselshikdar.ddns.net',
   avatar: '//gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256',
-  desc: 'Luwang\'s blog',
+  desc: 'Rasel\'s blog',
   // 文章相关
   pageSize: 12,
   defaultCover: '/images/cover.jpg',
