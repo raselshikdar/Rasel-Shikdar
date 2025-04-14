@@ -32,7 +32,7 @@ export default {
       <p>
         <a href="https://www.travellings.cn/go-by-clouds.html" target="_blank" class="travel"><SvgIcon name="travel" /> Travelling</a>
         <a :href="$config.github" target="_blank" class="github"><SvgIcon name="github" /> MyGitHub</a>
-        <a href="//github.com/wallleap/ethereal" target="_blank" class="theme"><SvgIcon name="theme" /> ethereal</a>
+        <a href="//github.com/raselshikdar/Rasel-Shikdar" target="_blank" class="theme"><SvgIcon name="theme" /> ethereal</a>
       </p>
     </div>
   </div>
