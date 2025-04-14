@@ -26,7 +26,7 @@ export default {
   // friendsRepo: 'friends', // 留空则默认使用上方仓库获取
   // 您的信息
   author: 'Rasel',
-  email: 'info@rsblog.ddns.net',
+  email: 'imrasel597@gmail.com',
   link: '//rasel.is-a.dev',
   github: '//github.com/raselshikdar',
   // 友链信息
