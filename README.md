@@ -1,30 +1,30 @@
 # Ethereal
 
-<div align="center"><img src="./docs/imgs/mockup.webp" alt="预览图" /></div>
+<div align="center"><img src="./docs/imgs/mockup.webp" alt="Preview Image" /></div>
 
 <div align="center"><img src="https://img.shields.io/github/stars/wallleap/ethereal?style=flat"> <img src="https://img.shields.io/github/forks/wallleap/ethereal?style=flat"> <img src="https://img.shields.io/github/issues/wallleap/ethereal?style=flat"> <img src="https://img.shields.io/github/last-commit/wallleap/ethereal?style=flat"> <img src="https://img.shields.io/github/license/wallleap/ethereal?style=flat"> <img src="https://img.shields.io/github/actions/workflow/status/wallleap/ethereal/deploy.yml?branch=main"></div>
 
-<p align="center">使用 Vite 4 搭建的 Vue 2 博客，免费使用</p>
+<p align="center">A Vue 2 blog built with Vite 4, free to use</p>
 
-<p align="center"><a href="#online-demo">查看预览</a> | <a href="./docs/guide.md">使用文档</a> | <a href="./docs/logs.md">更新日志</a></p>
+<p align="center"><a href="#online-demo">View Demo</a> | <a href="./docs/guide.md">Documentation</a> | <a href="./docs/logs.md">Changelog</a></p>
 
 ## Features
 
-:fairy: 基于 Vue 2 + Vue Router + Vuex 开发的 SPA 博客主题
+:fairy: SPA blog theme developed with Vue 2 + Vue Router + Vuex
 
-:writing_hand: 使用 Vite 4 构建打包，开发体验更好，构建速度更快
+:writing_hand: Built with Vite 4, faster builds and better dev experience
 
-:whale: 使用 GitHub Issue 编写文章，通过调用 GitHub API 获取文章数据
+:whale: Write posts using GitHub Issues, fetch post data via GitHub API
 
-:octopus:	 内置 Twikoo 和 Utterances 评论系统，免费无广，方便后续迁移
+:octopus: Built-in Twikoo and Utterances comment systems, free and ad-free, easy migration
 
-:crab: 使用 GitHub Actions 自动构建部署，Token 仅用于构建，无需担心泄露
+:crab: Automatically built and deployed using GitHub Actions, Token is for build only, no security risk
 
-:sparkles: 使用 GitHub Pages / Vercel 部署在线访问，无需额外服务器
+:sparkles: Deploy via GitHub Pages / Vercel, no extra server needed
 
 ## Recommended Environment
 
-<img style="height: 1em; vertical-align: -2px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> NVM（Node.js 14+）
+<img style="height: 1em; vertical-align: -2px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> NVM (Node.js 14+)
 
 <img style="height: 1em; vertical-align: -2px;" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"> pnpm <img style="height: 1em; vertical-align: -2px;" src="https://pnpm.io/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg">
 
@@ -39,7 +39,7 @@
 
 ## Online Demo
 
-| 站点 | 链接 | 可访问性 |
+| Site | Link | Accessibility |
 |:----:|:----:|:----:|
 | wallleap | <https://myblog.wallleap.cn> | ![online](https://img.shields.io/badge/online-true.svg) |
 
@@ -55,7 +55,7 @@
 
 ---
 
-欢迎提交 PR 或 Issue，如果你喜欢这个项目，欢迎 Star
+PRs and Issues are welcome. If you like this project, feel free to give it a Star.
 
 ## License
 
