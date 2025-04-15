@@ -44,7 +44,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: wallleap/wallleap.github.io
+          external_repository: raselshikdar/raselshikdar.github.io
           publish_branch: master
           user_name: raselshikdar
           user_email: imrasel597@gmail.com
