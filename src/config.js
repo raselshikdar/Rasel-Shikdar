@@ -22,7 +22,7 @@ export default {
   alipay_qr: '/images/alipayQr.jpg',
   // GitHub Issues 配置
   username: 'raselshikdar',
-  repository: 'myblogs',
+  repository: 'Rasel-Shikdar',
   // friendsRepo: 'friends', // 留空则默认使用上方仓库获取
   // 您的信息
   author: 'Rasel',
